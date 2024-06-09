@@ -1,5 +1,5 @@
-**Score Counter Web App
-**
+**Score Counter Web App**
+
 This is a simple web application for keeping track of scores for a two-team game. It allows users to increment scores for both the home and guest teams and displays the leader based on the current scores. Additionally, it features a fun animation of emojis when a team takes the lead.
 Technologies Used
 - HTML
